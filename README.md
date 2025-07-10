@@ -229,10 +229,6 @@ Contributions are welcome! Please:
 - Performance optimizations
 - Documentation improvements
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🔍 Roadmap
 
 - [ ] Web interface for easier usage
